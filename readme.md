@@ -16,7 +16,7 @@
 
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
-- 🌱 I’m currently learning **MERN STACK AND UI/UX DESIGNING**
+- 🌱 I’m currently learning **MERN STACK**
   
 - 💭👯 I’m looking to collaborate on OpenSource Projects
 
